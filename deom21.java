@@ -2,8 +2,8 @@ class deom21
 {
 public static void main(String args[ ])
  {
-   System.out.println("hello world");
-  System.out.println("hello world");
-  System.out.println("hello world");
+   int a=5,b=9,c=0;
+ c = a+b;
+  System.out.println("hello world" +c);
 }
  }
